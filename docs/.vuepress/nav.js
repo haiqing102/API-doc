@@ -2,28 +2,22 @@ module.exports = [
   { text: "首页", link: "/" },
   {
     text: "指南",
-    link: "/pages/a2f161/",
+    link: "/pages/101/",
     items: [
-      { text: "简 介", link: "/pages/a2f161/" },
-      { text: "安 装", link: "/pages/2f674a/" },
-      { text: "快速开始", link: "/pages/793dcb/" },
-      { text: "返回响应码", link: "/pages/745dcb/" },
+      { text: "简 介", link: "/pages/101/" },
+      { text: "快速开始", link: "/pages/102/" },
+      { text: "返回响应码", link: "/pages/103/" },
       {
         text: "API接口",
         items: [
-          { text: "诙谐语录", link: "/pages/1705234447153963010/" },
-          { text: "获取IP信息归属地", link: "/pages/1705239928861827073/" },
-          { text: "随机土味情话", link: "/pages/1705239469589733378/" },
-          { text: "每日星座运势", link: "/pages/1705238841173942274/" },
-          { text: "获取天气信息", link: "/pages/1705240565347459073/" },
-          { text: "随机壁纸", link: "/pages/1705237990061580289/" },
+          { text: "幽默段子", link: "/pages/201/" },
+          { text: "IP归属地", link: "/pages/202/" },
+          { text: "土味情话", link: "/pages/203/" },
+          { text: "星座运势", link: "/pages/204/" },
+          { text: "天气查询", link: "/pages/205/" },
+          { text: "随机壁纸", link: "/pages/206/" },
         ],
       },
     ],
-  },
-  {
-    text: "配置",
-    link: "/pages/a20ce8/",
-    items: [{ text: "使用配置", link: "/pages/a20ce8/" }],
   },
 ];

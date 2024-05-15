@@ -1,17 +1,17 @@
 ---
 home: true
-heroImage: /img/gif/logo.gif
+heroImage: /img/logo.png
 heroText: API 开发者文档
 tagline: 🚀 为简化开发而生
 actionText: 开始使用
-actionLink: /pages/a2f161/
+actionLink: /pages/101/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
 features: # 可选的
   - title: 客户端SDK支持
     details: 平台提供客户端SDK，使调用接口变得更加简单和便捷。
   - title: 简洁高效
-    details: 稳定、安全、高效的接口调用服务，帮助您实现更快速、便捷的开发和调用体验。
+    details: 安全、稳定、高效的接口调用服务，帮助您实现更快速、便捷的开发和调用体验。
   - title: 多样化选择
     details: 丰富多样的接口供您选择，涵盖了各个领域的功能和服务，满足不同的需求。
 
